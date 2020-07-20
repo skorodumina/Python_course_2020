@@ -1,0 +1,14 @@
+jupyter
+pandas
+cython
+numpy
+matplotlib
+sympy
+scipy
+emcee
+uproot
+nltk
+geopandas
+descartes
+pillow
+seaborn
